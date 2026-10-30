@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2026-27\\DI\\T4\\ejer2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1E4BB2-A182-4EFC-977A-033765F5F949}|ejer2\\ejer2.csproj|d:\\2026-27\\di\\t4\\ejer2\\ejer2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1E4BB2-A182-4EFC-977A-033765F5F949}|ejer2\\ejer2.csproj|solutionrelative:ejer2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1E4BB2-A182-4EFC-977A-033765F5F949}|ejer2\\ejer2.csproj|D:\\2026-27\\DI\\T4\\ejer2\\ejer2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1E4BB2-A182-4EFC-977A-033765F5F949}|ejer2\\ejer2.csproj|solutionrelative:ejer2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1E4BB2-A182-4EFC-977A-033765F5F949}|ejer2\\ejer2.csproj|D:\\2026-27\\DI\\T4\\ejer2\\ejer2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A1E4BB2-A182-4EFC-977A-033765F5F949}|ejer2\\ejer2.csproj|solutionrelative:ejer2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\2026-27\\DI\\T4\\ejer2\\ejer2\\Form1.cs",
+              "RelativeDocumentMoniker": "ejer2\\Form1.cs",
+              "ToolTip": "D:\\2026-27\\DI\\T4\\ejer2\\ejer2\\Form1.cs",
+              "RelativeToolTip": "ejer2\\Form1.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwEsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T10:46:01.119Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\2026-27\\DI\\T4\\ejer2\\ejer2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ejer2\\Form1.Designer.cs",
+              "ToolTip": "D:\\2026-27\\DI\\T4\\ejer2\\ejer2\\Form1.Designer.cs",
+              "RelativeToolTip": "ejer2\\Form1.Designer.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAkwPYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T08:23:32.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\2026-27\\DI\\T4\\ejer2\\ejer2\\Form1.cs",
+              "RelativeDocumentMoniker": "ejer2\\Form1.cs",
+              "ToolTip": "D:\\2026-27\\DI\\T4\\ejer2\\ejer2\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ejer2\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T10:25:40.278Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

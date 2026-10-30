@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nuevo"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="Nuevo"
+        app:showAsAction="always|withText" />
+    <item
+        android:id="@+id/borrar"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="borrar"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/editar"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="Editar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sub"
+        android:icon="@android:drawable/ic_dialog_dialer"
+        android:title="Sub"
+        app:showAsAction="never">
+        <menu>
+            <item
+                android:id="@+id/opc1"
+                android:title="opc1" />
+            <item
+                android:id="@+id/opc2"
+                android:title="opc2" />
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ejer5</string>
+    <string name="btn1">BUTTON</string>
+    <string name="btn3">BUTTON</string>
+    <string name="toggleButtonA">ACTIVATED</string>
+    <string name="cb1">CheckBox1</string>
+    <string name="cb2">CheckBox2</string>
+    <string name="cb3">CheckBox3</string>
+    <string name="toggleButton">DESACTIVATED</string>
+    <string name="radioButton4">RadioButton1</string>
+    <string name="radioButton5">RadioButton2</string>
+    <string name="switch1">Desactived</string>
+    <string name="editTextText">Put de name</string>
+    <string name="toast1">Incremented the new value is: %1$d</string>
+    <string name="toast2">Decremented the new value is: %1$d</string>
+    <string name="toggle_on">ACTIVATED</string>
+    <string name="toggle_off">DEACTIVATED</string>
+    <string name="switch_on">Active</string>
+    <string name="switch_off">Deactivated</string>
+    <string name="toolbar">Theme3Components</string>
+</resources>

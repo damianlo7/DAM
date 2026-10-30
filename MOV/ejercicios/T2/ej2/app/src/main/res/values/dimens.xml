@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margenes_laterales">0dp</dimen>
+    <dimen name="margenes_arriba">2dp</dimen>
+</resources>

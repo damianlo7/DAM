@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ejer2": {
+      "commandName": "Project",
+      "commandLineArgs": "newfile"
+    }
+  }
+}

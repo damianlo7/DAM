@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2026-27\\DI\\T1\\ejer7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28F4B6-FEB8-69F0-BF2E-20BF7CF7FA8A}|ejer7\\ejer7.csproj|d:\\2026-27\\di\\t1\\ejer7\\ejer7\\planeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C28F4B6-FEB8-69F0-BF2E-20BF7CF7FA8A}|ejer7\\ejer7.csproj|solutionrelative:ejer7\\planeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28F4B6-FEB8-69F0-BF2E-20BF7CF7FA8A}|ejer7\\ejer7.csproj|d:\\2026-27\\di\\t1\\ejer7\\ejer7\\astro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C28F4B6-FEB8-69F0-BF2E-20BF7CF7FA8A}|ejer7\\ejer7.csproj|solutionrelative:ejer7\\astro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28F4B6-FEB8-69F0-BF2E-20BF7CF7FA8A}|ejer7\\ejer7.csproj|d:\\2026-27\\di\\t1\\ejer7\\ejer7\\cometa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C28F4B6-FEB8-69F0-BF2E-20BF7CF7FA8A}|ejer7\\ejer7.csproj|solutionrelative:ejer7\\cometa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28F4B6-FEB8-69F0-BF2E-20BF7CF7FA8A}|ejer7\\ejer7.csproj|d:\\2026-27\\di\\t1\\ejer7\\ejer7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C28F4B6-FEB8-69F0-BF2E-20BF7CF7FA8A}|ejer7\\ejer7.csproj|solutionrelative:ejer7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28F4B6-FEB8-69F0-BF2E-20BF7CF7FA8A}|ejer7\\ejer7.csproj|d:\\2026-27\\di\\t1\\ejer7\\ejer7\\iterraformable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C28F4B6-FEB8-69F0-BF2E-20BF7CF7FA8A}|ejer7\\ejer7.csproj|solutionrelative:ejer7\\iterraformable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Astro.cs",
+              "DocumentMoniker": "D:\\2026-27\\DI\\T1\\ejer7\\ejer7\\Astro.cs",
+              "RelativeDocumentMoniker": "ejer7\\Astro.cs",
+              "ToolTip": "D:\\2026-27\\DI\\T1\\ejer7\\ejer7\\Astro.cs",
+              "RelativeToolTip": "ejer7\\Astro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T07:59:33.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Planeta.cs",
+              "DocumentMoniker": "D:\\2026-27\\DI\\T1\\ejer7\\ejer7\\Planeta.cs",
+              "RelativeDocumentMoniker": "ejer7\\Planeta.cs",
+              "ToolTip": "D:\\2026-27\\DI\\T1\\ejer7\\ejer7\\Planeta.cs",
+              "RelativeToolTip": "ejer7\\Planeta.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T10:21:18.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2026-27\\DI\\T1\\ejer7\\ejer7\\Program.cs",
+              "RelativeDocumentMoniker": "ejer7\\Program.cs",
+              "ToolTip": "D:\\2026-27\\DI\\T1\\ejer7\\ejer7\\Program.cs",
+              "RelativeToolTip": "ejer7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T07:58:24.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cometa.cs",
+              "DocumentMoniker": "D:\\2026-27\\DI\\T1\\ejer7\\ejer7\\Cometa.cs",
+              "RelativeDocumentMoniker": "ejer7\\Cometa.cs",
+              "ToolTip": "D:\\2026-27\\DI\\T1\\ejer7\\ejer7\\Cometa.cs",
+              "RelativeToolTip": "ejer7\\Cometa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T08:57:44.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITerraformable.cs",
+              "DocumentMoniker": "D:\\2026-27\\DI\\T1\\ejer7\\ejer7\\ITerraformable.cs",
+              "RelativeDocumentMoniker": "ejer7\\ITerraformable.cs",
+              "ToolTip": "D:\\2026-27\\DI\\T1\\ejer7\\ejer7\\ITerraformable.cs",
+              "RelativeToolTip": "ejer7\\ITerraformable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T10:15:50.801Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

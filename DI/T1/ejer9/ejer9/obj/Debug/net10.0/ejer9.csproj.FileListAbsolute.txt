@@ -1,0 +1,15 @@
+D:\2026-27\DI\T1\ejer9\ejer9\bin\Debug\net10.0\ejer9.exe
+D:\2026-27\DI\T1\ejer9\ejer9\bin\Debug\net10.0\ejer9.deps.json
+D:\2026-27\DI\T1\ejer9\ejer9\bin\Debug\net10.0\ejer9.runtimeconfig.json
+D:\2026-27\DI\T1\ejer9\ejer9\bin\Debug\net10.0\ejer9.dll
+D:\2026-27\DI\T1\ejer9\ejer9\bin\Debug\net10.0\ejer9.pdb
+D:\2026-27\DI\T1\ejer9\ejer9\obj\Debug\net10.0\ejer9.GeneratedMSBuildEditorConfig.editorconfig
+D:\2026-27\DI\T1\ejer9\ejer9\obj\Debug\net10.0\ejer9.AssemblyInfoInputs.cache
+D:\2026-27\DI\T1\ejer9\ejer9\obj\Debug\net10.0\ejer9.AssemblyInfo.cs
+D:\2026-27\DI\T1\ejer9\ejer9\obj\Debug\net10.0\ejer9.csproj.CoreCompileInputs.cache
+D:\2026-27\DI\T1\ejer9\ejer9\obj\Debug\net10.0\ejer9.dll
+D:\2026-27\DI\T1\ejer9\ejer9\obj\Debug\net10.0\refint\ejer9.dll
+D:\2026-27\DI\T1\ejer9\ejer9\obj\Debug\net10.0\ejer9.pdb
+D:\2026-27\DI\T1\ejer9\ejer9\obj\Debug\net10.0\ejer9.genruntimeconfig.cache
+D:\2026-27\DI\T1\ejer9\ejer9\obj\Debug\net10.0\ref\ejer9.dll
+D:\2026-27\DI\T1\ejer9\ejer9\obj\Debug\net10.0\ejer9.csproj.Up2Date

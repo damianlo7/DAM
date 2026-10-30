@@ -1,0 +1,11 @@
+D:\2026-27\DI\T4\ejer3\ejer3\bin\Debug\ejer3.exe.config
+D:\2026-27\DI\T4\ejer3\ejer3\bin\Debug\ejer3.exe
+D:\2026-27\DI\T4\ejer3\ejer3\bin\Debug\ejer3.pdb
+D:\2026-27\DI\T4\ejer3\ejer3\obj\Debug\ejer3.csproj.AssemblyReference.cache
+D:\2026-27\DI\T4\ejer3\ejer3\obj\Debug\ejer3.Form1.resources
+D:\2026-27\DI\T4\ejer3\ejer3\obj\Debug\ejer3.Properties.Resources.resources
+D:\2026-27\DI\T4\ejer3\ejer3\obj\Debug\ejer3.csproj.GenerateResource.cache
+D:\2026-27\DI\T4\ejer3\ejer3\obj\Debug\ejer3.csproj.CoreCompileInputs.cache
+D:\2026-27\DI\T4\ejer3\ejer3\obj\Debug\ejer3.exe
+D:\2026-27\DI\T4\ejer3\ejer3\obj\Debug\ejer3.pdb
+D:\2026-27\DI\T4\ejer3\ejer3\obj\Debug\ejer3.Form2.resources

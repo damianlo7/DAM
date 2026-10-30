@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/carrusel"
+        android:title="Item"
+        app:showAsAction="always" />
+    <item
+        android:icon="@drawable/corazon"
+        android:title="Item"
+        app:showAsAction="always" />
+    <item
+        android:icon="@android:drawable/ic_menu_gallery"
+        android:title="Item"
+        app:showAsAction="always" />
+    <item
+        android:icon="@android:drawable/gallery_thumb"
+        android:title="Item"
+        app:showAsAction="always" />
+    <item
+        android:icon="@drawable/corazonr"
+        android:title="Item"
+        app:showAsAction="always" />
+</menu>

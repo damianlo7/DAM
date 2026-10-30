@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2026-27\\DI\\T1\\TemaArchivos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F86E1A-1198-4444-9AEE-EFA91FB83277}|TemaArchivos\\TemaArchivos.csproj|d:\\2026-27\\di\\t1\\temaarchivos\\temaarchivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F86E1A-1198-4444-9AEE-EFA91FB83277}|TemaArchivos\\TemaArchivos.csproj|solutionrelative:temaarchivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2026-27\\DI\\T1\\TemaArchivos\\TemaArchivos\\Program.cs",
+              "RelativeDocumentMoniker": "TemaArchivos\\Program.cs",
+              "ToolTip": "D:\\2026-27\\DI\\T1\\TemaArchivos\\TemaArchivos\\Program.cs",
+              "RelativeToolTip": "TemaArchivos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T07:16:37.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

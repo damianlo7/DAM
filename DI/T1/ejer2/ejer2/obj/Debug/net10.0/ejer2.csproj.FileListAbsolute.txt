@@ -1,0 +1,15 @@
+C:\Users\dloppin\source\repos\ejer2\ejer2\bin\Debug\net10.0\ejer2.exe
+C:\Users\dloppin\source\repos\ejer2\ejer2\bin\Debug\net10.0\ejer2.deps.json
+C:\Users\dloppin\source\repos\ejer2\ejer2\bin\Debug\net10.0\ejer2.runtimeconfig.json
+C:\Users\dloppin\source\repos\ejer2\ejer2\bin\Debug\net10.0\ejer2.dll
+C:\Users\dloppin\source\repos\ejer2\ejer2\bin\Debug\net10.0\ejer2.pdb
+C:\Users\dloppin\source\repos\ejer2\ejer2\obj\Debug\net10.0\ejer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dloppin\source\repos\ejer2\ejer2\obj\Debug\net10.0\ejer2.AssemblyInfoInputs.cache
+C:\Users\dloppin\source\repos\ejer2\ejer2\obj\Debug\net10.0\ejer2.AssemblyInfo.cs
+C:\Users\dloppin\source\repos\ejer2\ejer2\obj\Debug\net10.0\ejer2.csproj.CoreCompileInputs.cache
+C:\Users\dloppin\source\repos\ejer2\ejer2\obj\Debug\net10.0\ejer2.dll
+C:\Users\dloppin\source\repos\ejer2\ejer2\obj\Debug\net10.0\refint\ejer2.dll
+C:\Users\dloppin\source\repos\ejer2\ejer2\obj\Debug\net10.0\ejer2.pdb
+C:\Users\dloppin\source\repos\ejer2\ejer2\obj\Debug\net10.0\ejer2.genruntimeconfig.cache
+C:\Users\dloppin\source\repos\ejer2\ejer2\obj\Debug\net10.0\ref\ejer2.dll
+C:\Users\dloppin\source\repos\ejer2\ejer2\obj\Debug\net10.0\ejer2.csproj.Up2Date

@@ -1,0 +1,10 @@
+D:\2026-27\DI\T4\ejer5\ejer5\bin\Debug\ejer5.exe.config
+D:\2026-27\DI\T4\ejer5\ejer5\bin\Debug\ejer5.exe
+D:\2026-27\DI\T4\ejer5\ejer5\bin\Debug\ejer5.pdb
+D:\2026-27\DI\T4\ejer5\ejer5\obj\Debug\ejer5.csproj.AssemblyReference.cache
+D:\2026-27\DI\T4\ejer5\ejer5\obj\Debug\ejer5.Form1.resources
+D:\2026-27\DI\T4\ejer5\ejer5\obj\Debug\ejer5.Properties.Resources.resources
+D:\2026-27\DI\T4\ejer5\ejer5\obj\Debug\ejer5.csproj.GenerateResource.cache
+D:\2026-27\DI\T4\ejer5\ejer5\obj\Debug\ejer5.csproj.CoreCompileInputs.cache
+D:\2026-27\DI\T4\ejer5\ejer5\obj\Debug\ejer5.exe
+D:\2026-27\DI\T4\ejer5\ejer5\obj\Debug\ejer5.pdb

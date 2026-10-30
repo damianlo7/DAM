@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ejer5</string>
+    <string name="btn1">BOTÓN</string>
+    <string name="btn3">BOTÓN</string>
+    <string name="toggleButtonA">ACTIVADO</string>
+    <string name="cb1">CaixaCheck1</string>
+    <string name="cb2">CaixaCheck2</string>
+    <string name="cb3">CaixaCheck3</string>
+    <string name="toggleButton">DESACTIVADO</string>
+    <string name="radioButton4">RadioBotón1</string>
+    <string name="radioButton5">RadioBotón2</string>
+    <string name="switch1">Desactivado</string>
+    <string name="editTextText">Introduce el nombre</string>
+    <string name="toast1">"Incrementado el nuevo valor es: "</string>
+    <string name="toast2">"Decrementado es nuevo valor es: "</string>
+    <string name="toggle_on">ACTIVADO</string>
+    <string name="toggle_off">DESACTIVADO</string>
+    <string name="switch_on">Activado</string>
+    <string name="switch_off">Desactivado</string>
+    <string name="toolbar">Tema3Componentes</string>
+</resources>

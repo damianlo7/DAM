@@ -1,0 +1,15 @@
+D:\2026-27\SERV\T1\ejercicios\ejer1\ejer1\bin\Debug\net10.0\ejer1.exe
+D:\2026-27\SERV\T1\ejercicios\ejer1\ejer1\bin\Debug\net10.0\ejer1.deps.json
+D:\2026-27\SERV\T1\ejercicios\ejer1\ejer1\bin\Debug\net10.0\ejer1.runtimeconfig.json
+D:\2026-27\SERV\T1\ejercicios\ejer1\ejer1\bin\Debug\net10.0\ejer1.dll
+D:\2026-27\SERV\T1\ejercicios\ejer1\ejer1\bin\Debug\net10.0\ejer1.pdb
+D:\2026-27\SERV\T1\ejercicios\ejer1\ejer1\obj\Debug\net10.0\ejer1.GeneratedMSBuildEditorConfig.editorconfig
+D:\2026-27\SERV\T1\ejercicios\ejer1\ejer1\obj\Debug\net10.0\ejer1.AssemblyInfoInputs.cache
+D:\2026-27\SERV\T1\ejercicios\ejer1\ejer1\obj\Debug\net10.0\ejer1.AssemblyInfo.cs
+D:\2026-27\SERV\T1\ejercicios\ejer1\ejer1\obj\Debug\net10.0\ejer1.csproj.CoreCompileInputs.cache
+D:\2026-27\SERV\T1\ejercicios\ejer1\ejer1\obj\Debug\net10.0\ejer1.dll
+D:\2026-27\SERV\T1\ejercicios\ejer1\ejer1\obj\Debug\net10.0\refint\ejer1.dll
+D:\2026-27\SERV\T1\ejercicios\ejer1\ejer1\obj\Debug\net10.0\ejer1.pdb
+D:\2026-27\SERV\T1\ejercicios\ejer1\ejer1\obj\Debug\net10.0\ejer1.genruntimeconfig.cache
+D:\2026-27\SERV\T1\ejercicios\ejer1\ejer1\obj\Debug\net10.0\ref\ejer1.dll
+D:\2026-27\SERV\T1\ejercicios\ejer1\ejer1\obj\Debug\net10.0\ejer1.csproj.Up2Date
