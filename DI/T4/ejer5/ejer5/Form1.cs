@@ -39,12 +39,21 @@ namespace ejer5
 
                     }
                     cont++;
-                    b.MouseLeave += salirDelBoton; 
+
+
+                    b.MouseLeave += salirDelBoton;
                     b.MouseEnter += pasarPorBoton;
+
                     b.Click += pulsarBoton;
                 }
             }
 
+            Button reset = new Button();
+            reset.SetBounds(60,240,40,20);
+            reset.Text = "reset";
+            reset.BackColor = Color.Azure;
+            this.Controls.Add (reset);
+            reset.Click += resetT;
 
         }
 
@@ -52,6 +61,7 @@ namespace ejer5
         {
             Button b = new Button();
             b = (Button)sender;
+
             b.BackColor = Color.Orange;
             tb.Text += b.Text;
 
@@ -60,18 +70,50 @@ namespace ejer5
         private void pasarPorBoton(object sender, EventArgs e)
         {
             Button b = (Button)sender;
-            b.BackColor = Color.Green;
+            if (b.BackColor != Color.Orange)
+            {
+                b.BackColor = Color.Green;
+            }
 
         }
         private void salirDelBoton(object sender, EventArgs e)
         {
             Button b = (Button)sender;
-            b.BackColor = DefaultBackColor;
+            if (b.BackColor != Color.Orange)
+            {
+                b.BackColor = DefaultBackColor;
+            }
+        }
+
+        private void resetT(object sender, EventArgs e)
+        {
+            tb.Text = "";
+            foreach (Control c in Controls)
+            {
+                if (c.GetType() == typeof(Button))
+                {
+                    if (c.BackColor == Color.Orange)
+                    {
+                        c.BackColor = DefaultBackColor;
+                    }
+                }
+
+            }
 
         }
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void archivoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void acercaDeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Esta es una aplicacion para DI \nAutor: Damián López", "Información",MessageBoxButtons.OK,MessageBoxIcon.Information);
         }
     }
 }

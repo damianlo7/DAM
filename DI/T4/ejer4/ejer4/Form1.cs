@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
-namespace ejer4//TODO separar groupbpoxes
+namespace ejer4 
 {
     public partial class ejer4 : Form
     {
@@ -57,7 +57,7 @@ namespace ejer4//TODO separar groupbpoxes
                 btnEliminar.Text = "Eliminar de 2";
             }
         }
-        private void rbT_CheckedChanged(object sender, EventArgs e)//TODO en una linea con el sender
+        private void rbT_CheckedChanged(object sender, EventArgs e) 
         {
             RadioButton rb = (RadioButton)sender;
             btnTranspasar.Text = rb.Text;
@@ -96,7 +96,7 @@ namespace ejer4//TODO separar groupbpoxes
                 //{
                 //    lb2.Items.RemoveAt(lb2.SelectedIndex);
                 //}
-                //for (int i = lb2.Items.Count - 1; i >= 0; i--)//TODO Sin bucle
+                //for (int i = lb2.Items.Count - 1; i >= 0; i--)//T 
                 //{
                 //    if (lb2.GetSelected(i))
                 //    {
@@ -142,7 +142,7 @@ namespace ejer4//TODO separar groupbpoxes
                     }
 
 
-                    //for (int i = lb1.Items.Count - 1; i >= 0; i--) //TODO no repetir código de eliminación
+                    //for (int i = lb1.Items.Count - 1; i >= 0; i--)  
                     //{
                     //    if (lb1.GetSelected(i))
                     //    {
@@ -242,7 +242,7 @@ namespace ejer4//TODO separar groupbpoxes
             letras = 0;
         }
 
-        //private void lb2_MouseEnter(object sender, EventArgs e)//TODO Mejor donde realmente cambia
+        //private void lb2_MouseEnter(object sender, EventArgs e) 
         //{
         //    toolTip1.SetToolTip(lb2, $"Elementos en la lista: {lb2.Items.Count}");
         //}

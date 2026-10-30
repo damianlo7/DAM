@@ -16,10 +16,10 @@
                 {
                     if (flag)
                     {
+                        i++;
                         Console.BackgroundColor = ConsoleColor.Green;
                         Console.Write($"{i:D4} ");
-                        i++;
-                        if (i >= 500 || i <= -500)
+                        if (i >= 500 )
                         {
                             flag = false;
                         }
@@ -35,12 +35,12 @@
                 {
                     if (flag)
                     {
+                        i--;
                         Console.BackgroundColor = ConsoleColor.Red;
                         //Console.Write($" {i, 4} ");
                         Console.Write($"{i:D4} ");
 
-                        i--;
-                        if (i >= 500 || i <= -500)
+                        if (  i <= -500)
                         {
                             flag = false;
                         }
